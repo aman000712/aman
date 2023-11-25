@@ -348,17 +348,16 @@ a{
     font-size: 10px;
 }
 .fotter{
-    background-color:rgb(180, 56, 56);
+    background-color:#72787e;
     height: 400px;
     display: flex;
     padding: 40px;
-    padding-left: 40px;
     justify-content:space-between;
-    flex:1px;
+    margin-top: 30px;
 }
 .kla{
-    background-color: bisque;
     margin-top: 30px;
+    margin-left: 15px;
 }
 .ftr{
      text-transform: capitalize;
@@ -366,7 +365,7 @@ a{
 }
 .saar{
     margin-top: 15px;
-    background-color: blue;
+    margin-left: 10px;
 }
 .prri{
     margin-top: 5px;
@@ -375,25 +374,20 @@ a{
     margin-top: 5px;
 }
 .arkko{
-    background-color: aqua;
-    margin-top: 5px;
+    margin-top: 30px;
 }
 .smmt{
+    margin-top: 5px;
 }
 .ttro{
-    margin-top: 5px;
     font-size: 30px;
     text-transform: capitalize;
 }
 .trsro{
-    background-color: #808080;
-    margin-top: 5px;
+    margin-top: 30px;
     margin-left: 200px;
     margin-right: 200px;
 }
-.tesssk{
-
-} 
 .nootr{
     font-size: 30px;
     text-transform: capitalize;
