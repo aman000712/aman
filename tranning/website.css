@@ -102,8 +102,7 @@ a{
 .hh{
     width: fit-content;
 }
-.ogf{
-}
+
 .otf{
     width:40%;
     justify-content: center;
@@ -253,8 +252,7 @@ a{
     width:90%;
     margin:0px auto;
 }
-.edd{
-}
+
 .torr{
     text-decoration: underline;
 }
@@ -305,8 +303,7 @@ a{
     width:450px;
     text-decoration: underline;
 }
-.tta{
-}
+
 .imk{
     gap: 20px;
 }
@@ -349,4 +346,55 @@ a{
 }
 .tra{
     font-size: 10px;
+}
+.fotter{
+    background-color:rgb(180, 56, 56);
+    height: 400px;
+    display: flex;
+    padding: 40px;
+    padding-left: 40px;
+    justify-content:space-between;
+    flex:1px;
+}
+.kla{
+    background-color: bisque;
+    margin-top: 30px;
+}
+.ftr{
+     text-transform: capitalize;
+     font-size: 40px;
+}
+.saar{
+    margin-top: 15px;
+    background-color: blue;
+}
+.prri{
+    margin-top: 5px;
+}
+.yhai{
+    margin-top: 5px;
+}
+.arkko{
+    background-color: aqua;
+    margin-top: 5px;
+}
+.smmt{
+}
+.ttro{
+    margin-top: 5px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.trsro{
+    background-color: #808080;
+    margin-top: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.tesssk{
+
+} 
+.nootr{
+    font-size: 30px;
+    text-transform: capitalize;
 }
